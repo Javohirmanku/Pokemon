@@ -1,0 +1,4 @@
+div.joxa:hover{
+  transform: scale(1.06);
+  transition: all 1s;
+}
